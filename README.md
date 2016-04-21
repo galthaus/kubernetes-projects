@@ -1,7 +1,8 @@
 # kubernetes-projects
 Inventory of community and opensource projects
 
-### Network
+### Network 
+###### \#sig-network 
 
 ##### Weave - [weave.works](https://www.weave.works/)
 https://github.com/weaveworks/weave
