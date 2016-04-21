@@ -2,7 +2,6 @@
 Inventory of community and opensource projects
 
 ### Network 
-###### \#sig-network 
 
 ##### Weave - [weave.works](https://www.weave.works/)
 https://github.com/weaveworks/weave
@@ -27,10 +26,22 @@ https://github.com/Juniper/contrail-controller
 ### Cluster managment/deployment tools
 
 ##### kraken
+https://github.com/Samsung-AG/kraken
 
-##### kubespray
+> Deploy a Kubernetes cluster using Terraform and Ansible on top of CoreOS.
 
-##### aws-up
+##### kargo - [kubespray.io](https://doc.kubespray.io)
+https://github.com/kubespray/kargo
+
+- Deploy a production ready kubernetes cluster on AWS, GCE, OpenStack or Baremetal
+- Options to chose the network plugin: weave/flannel/calico/opencontrail/romana/
+- Support popular os: CoreOS, Debian, Centos....
+- Stable deployment scripts with continuous integration tests (deploy clusters and test them on PR)
+
+##### kube-aws - [coreos.com/kube-aws](https://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html)
+https://github.com/coreos/coreos-kubernetes
+
+> At CoreOS, we use the kube-aws CLI tool to automate cluster deployment to AWS
 
 ### Dashboards and UI components
 ##### kubernetes-dashboard
