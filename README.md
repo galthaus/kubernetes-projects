@@ -43,6 +43,17 @@ https://github.com/coreos/coreos-kubernetes
 
 > At CoreOS, we use the kube-aws CLI tool to automate cluster deployment to AWS
 
+##### Digital Rebar/RackN Enterprise
+* https://rebar.digital
+* https://rackn.com
+
+> - Deploy and orchestrate kuberenetes deployments across multiple clouds, bare metal, and operating systems.
+- Options to choose network plugins - same as kargo.
+- Supports bare metal provisioning as well as cloud infrastructure
+- Kubernetes component is based currently on kargo ansible scripts - imports directly.
+- Uses composition to build out clusters
+
+
 ### Dashboards and UI components
 ##### kubernetes-dashboard
 ##### kube-ui
