@@ -33,7 +33,7 @@ https://github.com/Samsung-AG/kraken
 ##### kargo - [kubespray.io](https://doc.kubespray.io)
 https://github.com/kubespray/kargo
 
-- Deploy a production ready kubernetes cluster on AWS, GCE, OpenStack or Baremetal
+> - Deploy a production ready kubernetes cluster on AWS, GCE, OpenStack or Baremetal
 - Options to chose the network plugin: weave/flannel/calico/opencontrail/romana/
 - Support popular os: CoreOS, Debian, Centos....
 - Stable deployment scripts with continuous integration tests (deploy clusters and test them on PR)
